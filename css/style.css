@@ -1,0 +1,26 @@
+#redTextSpan {
+    color:red !important;
+}
+
+.comicsans {
+    font: "comic sans ms";
+}
+
+#content {
+    width: 1000px;
+    margin: auto;
+}
+
+#outer {
+    width: 50%;
+    background-color: red;
+}
+
+#inner {
+    background-color:blue;
+    width: 50%;
+}
+
+iframe {
+    float: right;
+}
